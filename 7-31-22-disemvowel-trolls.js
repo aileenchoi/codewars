@@ -20,4 +20,4 @@ function disemvowel(str) {
     return str.replace(/[aeiou]/gi, '');
   }
 
-console.log(disemvowel('This website iis for losers LOL!')) //console.logs "Ths wbst s fr lsrs LL!"
+console.log(disemvowel('This website is for losers LOL!')) //console.logs "Ths wbst s fr lsrs LL!"
