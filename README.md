@@ -1,2 +1,2 @@
 # codewars
-A collection of my codewars
+A collection of my coding challenges and my solutions
