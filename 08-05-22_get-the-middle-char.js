@@ -2,7 +2,7 @@
 
 // You are going to be given a word. Your job is to return the middle character of the word. If the word's length is odd, return the middle character. If the word's length is even, return the middle 2 characters.
 
-// #Examples:
+// #Examples: 
 
 // Kata.getMiddle("test") should return "es"
 
@@ -23,7 +23,6 @@
 // R: a strirng of either one or two letters (if the length is odd, it will be the middle one letter. and if it is even, it will be the middle two letters)
 // E:
 // test -> es
-// dog -> o
 // middle -> dd
 // A -> A
 // P: if the remainder is 1, slice s.length/2. Else, return and slice the string's length - 1 divided by 2 and the string's length + 1 divided by 2 to get the two middle letters
